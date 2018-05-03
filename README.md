@@ -7,7 +7,7 @@ The aim is to learn the ball to roll to the cube target, once it reaches it, the
 
 ## Tensorflow board
 
-![Alt text](Screenshots/tensorboard.png?raw=true "Tensorboard")
+![Alt text](Screenshots/tensorflowboard.png?raw=true "Tensorboard")
 
 
 
