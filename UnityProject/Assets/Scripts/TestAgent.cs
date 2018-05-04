@@ -51,11 +51,11 @@ public class TestAgent : Agent {
         // Getting closer
         if (distanceToTarget < previousDistance)
         {
-            AddReward(0.1f);
+            AddReward(0.01f);
         }
 
         // Time penalty
-        AddReward(-0.05f);
+        AddReward(-0.005f);
 
         // Fell off platform
         if (this.transform.position.y < -0.5f)
