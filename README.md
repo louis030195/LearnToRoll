@@ -9,5 +9,9 @@ The aim is to learn the ball to roll to the cube target, once it reaches it, the
 
 ![Alt text](Screenshots/tensorflowboard.png?raw=true "Tensorboard")
 
+## Preview of 1 hour trained agent
+
+https://www.youtube.com/watch?v=Ix7AlDgpLHs
+
 
 
